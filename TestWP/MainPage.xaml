@@ -20,11 +20,11 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- LOCALIZATION NOTE:  fdsadfasdfsadf
+        <!-- LOCALIZATION NOTE:  fdsadfasdfsadf 
             To localize the displayed strings copy their values to appropriately named
             keys in the app's neutral language resource file (AppResources.resx) then
             replace the hard-coded text value between the attributes' quotation marks
-            with the binding clause whose path points to that string name.
+            with the binding clause whose pasdfsadfasdfath points to that string name.
 
             For example:
 
